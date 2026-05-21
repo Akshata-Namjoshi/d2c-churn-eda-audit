@@ -1,1 +1,1 @@
-# D2C-Customer-Churn-Intelligence-Retention-API
+# EDA and business understanding for D2C churn prediction
